@@ -3,4 +3,5 @@ b=12
 c=a+b
 print("addition",c)
 
-#helliworld
+d=a-b
+print("subs",d)
